@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is being created to fulfil Project for Week 3 Data Science Course. 
+The Data Scientist Toolbox repo
